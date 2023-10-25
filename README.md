@@ -36,7 +36,7 @@ Before using the Color Mixer Application, make sure you have the following softw
 1. Clone or download the Color Mixer Application repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/color-mixer-app.git
+   git clone https://github.com/highplainscomputing/Color_Mixing_App.git
 
 2. Navigate to the project directory.
   
@@ -62,7 +62,7 @@ Run the application using the following command:
    ```bash
    python color_mixer.py
 
-
+```
 Two windows will open: one with a blank white canvas and another with a palette image.
 
 Click on the palette image to select a color. The selected color will be mixed with the canvas color and displayed on the canvas.
