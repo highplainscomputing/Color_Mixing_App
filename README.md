@@ -20,20 +20,33 @@ The **Color Mixer Application** is a user-friendly and interactive tool designed
 
 ## 2. Getting Started
 
-1. Clone or download the Color Mixer Application repository to your local machine.
+
+1. Create Virtual Environment
+  ```bash
+  python -m venv <your-environment-name>
+  ```
+  Activate
+```bash
+<your-environment-name>\Scripts\activate
+```
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3. Clone or download the Color Mixer Application repository to your local machine.
 
    ```bash
    git clone https://github.com/highplainscomputing/Color_Mixing_App.git
 
-2. Navigate to the project directory.
+4. Navigate to the project directory.
   
    ```bash
    cd color-mixer-app
-
-3. Install the required Python packages.
-  
+5. Run the Application.
    ```bash
-   pip install -r requirements.txt
+   python color_mix.py
+   ```
 
 ## 3. Usage
 
