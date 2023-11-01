@@ -20,14 +20,6 @@ The **Color Mixer Application** is a user-friendly and interactive tool designed
 
 ## 2. Getting Started
 
-### Prerequisites
-
-Before using the Color Mixer Application, make sure you have the following software installed on your computer:
-
-- **Python**: This application is written in Python, so you will need Python installed. You can download Python from [python.org](https://www.python.org/downloads/).
-
-### Installation
-
 1. Clone or download the Color Mixer Application repository to your local machine.
 
    ```bash
