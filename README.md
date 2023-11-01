@@ -4,13 +4,8 @@
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-    1. [Prerequisites](#prerequisites)
-    2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Features](#features)
-5. [Keyboard Shortcuts](#keyboard-shortcuts)
-
----
 
 ## 1. Introduction
 
