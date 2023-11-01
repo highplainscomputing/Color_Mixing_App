@@ -6,7 +6,7 @@
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Features](#features)
-
+5. [Keyboard Shortcuts](#keyboard-shortcuts)
 ## 1. Introduction
 
 The **Color Mixer Application** is a user-friendly and interactive tool designed to facilitate the creation of custom colors by mixing pixel colors from a palette image with a blank canvas. This application is ideal for artists, designers, or anyone who wants to experiment with color blending in a creative and intuitive way.
