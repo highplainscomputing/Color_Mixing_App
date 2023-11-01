@@ -11,6 +11,7 @@
 
 The **Color Mixer Application** is a user-friendly and interactive tool designed to facilitate the creation of custom colors by mixing pixel colors from a palette image with a blank canvas. This application is ideal for artists, designers, or anyone who wants to experiment with color blending in a creative and intuitive way.
 
+![Demo Image](https://github.com/highplainscomputing/Color_Mixing_App/blob/main/Demo.png)
 ### Key Features
 
 - Open two windows: one with a blank white canvas and another with a palette image.
