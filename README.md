@@ -1,4 +1,4 @@
-# Color Mixer Application Readme
+# Color Mixer Application
 
 ## Table of Contents
 
